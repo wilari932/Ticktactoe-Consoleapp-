@@ -1,0 +1,6 @@
+C:\Users\Wilirambo\source\repos\ticktacktoeGame\ticktacktoeGame\bin\Debug\ticktacktoeGame.exe.config
+C:\Users\Wilirambo\source\repos\ticktacktoeGame\ticktacktoeGame\bin\Debug\ticktacktoeGame.exe
+C:\Users\Wilirambo\source\repos\ticktacktoeGame\ticktacktoeGame\bin\Debug\ticktacktoeGame.pdb
+C:\Users\Wilirambo\source\repos\ticktacktoeGame\ticktacktoeGame\obj\Debug\ticktacktoeGame.csprojAssemblyReference.cache
+C:\Users\Wilirambo\source\repos\ticktacktoeGame\ticktacktoeGame\obj\Debug\ticktacktoeGame.exe
+C:\Users\Wilirambo\source\repos\ticktacktoeGame\ticktacktoeGame\obj\Debug\ticktacktoeGame.pdb
